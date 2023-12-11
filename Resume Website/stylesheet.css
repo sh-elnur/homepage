@@ -56,7 +56,7 @@ body {
     .main-info,
     .contact_info_container {
       flex-direction: column;
-    }
+    } 
   
     .contact_info_container {
       align-items: center;
@@ -159,7 +159,7 @@ body {
   
   .intro_text {
     color: var(--secondary-text-color);
-    text-align: justify;
+    text-align: center;
   }
   
   .skills__header {
@@ -170,7 +170,7 @@ body {
   
   .skills__text {
     color: var(--secondary-text-color);
-    text-align: justify;
+    text-align: center;
   }
 
   .experiences {
