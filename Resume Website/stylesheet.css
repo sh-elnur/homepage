@@ -113,7 +113,11 @@
   justify-content: center;
 }
 
+<<<<<<< HEAD
 .contact-info__item-icon path { 
+=======
+.contact-info__item-icon path {
+>>>>>>> feature/body
   fill: var(--icon-color);
 }
 
