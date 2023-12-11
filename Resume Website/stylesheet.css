@@ -56,7 +56,7 @@ body {
     .main-info,
     .contact_info_container {
       flex-direction: column;
-    }
+    } 
   
     .contact_info_container {
       align-items: center;
